@@ -1,8 +1,0 @@
-C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\ManyChance\bin\Release\net462\ChestChance.dll
-C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\ManyChance\obj\Release\net462\ChestChance.csproj.AssemblyReference.cache
-C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\ManyChance\obj\Release\net462\MyPluginInfo.cs
-C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\ManyChance\obj\Release\net462\ChestChance.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\ManyChance\obj\Release\net462\ChestChance.AssemblyInfoInputs.cache
-C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\ManyChance\obj\Release\net462\ChestChance.AssemblyInfo.cs
-C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\ManyChance\obj\Release\net462\ChestChance.csproj.CoreCompileInputs.cache
-C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\ManyChance\obj\Release\net462\ChestChance.dll
