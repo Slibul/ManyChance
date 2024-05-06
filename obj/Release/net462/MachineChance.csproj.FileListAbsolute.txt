@@ -1,0 +1,8 @@
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\MachineChance\bin\Release\net462\MachineChance.dll
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\MachineChance\obj\Release\net462\MachineChance.csproj.AssemblyReference.cache
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\MachineChance\obj\Release\net462\MyPluginInfo.cs
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\MachineChance\obj\Release\net462\MachineChance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\MachineChance\obj\Release\net462\MachineChance.AssemblyInfoInputs.cache
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\MachineChance\obj\Release\net462\MachineChance.AssemblyInfo.cs
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\MachineChance\obj\Release\net462\MachineChance.csproj.CoreCompileInputs.cache
+C:\Users\jimin\Documents\SkulHardModeMods-HardModeModPack-v0.0.6\SkulHardModeMods-HardModeModPack-v0.0.6\MachineChance\obj\Release\net462\MachineChance.dll
